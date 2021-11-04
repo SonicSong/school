@@ -1,0 +1,25 @@
+T:
+
+T: Kondensator - łączenie kondensatorów
+
+C = q / V
+C = q / U [F = C / V]
+
+ + + +
+------- ↑
+ ↓ ↓ ↓  d
+------- ↓
+ - - -
+
+[inset img tab 2]
+
+1/Cz = 1/C1 + 1/C2 + 1/C3
+
+Cz = C1 + C2 + C3
+
+C1 = C2 .. C4 = 10pF
+
+1/Cz I = 1/C2 + 1/C3 = 1/10pF + 1/10pF = 2/10pF
+Cz I = 10pF/2 = 5pF
+cz II = 5pF + 10pF + 10pF = 25pF
+.

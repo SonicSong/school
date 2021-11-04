@@ -1,0 +1,31 @@
+T: Napięcie elektryczne
+
+E = q * V
+
+V = E / q	[J/C] = [V]
+
+W = q * U
+W = q * (V↓A - V↓B)	U[V]
+
+zadanie.
+Dwa ładunki q↓1 = 4 C i q↓2 = 2 znajdują się w powietrzu w odlegości dwóch metrów. Z jaką siłą elektryczną działąja one na trzeci ładunek q↓3 = 1C umieszczony w połowie odległości między nimi. k = 9 * 10↑9
+
+q1 = 4C
+q2 = 2C
+q3 = 1C
+v = 2m
+k
+
+q1	q3	q2
+(+) -F2←(+)→F1	(+)
+
+→   →    →
+F = F1 - F2
+
+F1 = k * [q1 * q3 / r3]
+
+F2 = k * [q2 * q3 / r2]
+
+F = k * [q1 * q3 / [r2 / 2]] - k & [q3 * q2 / [r2 / 2]
+
+F = [k / [r2 / 2] * ([q1 * q3 - q2 * q3]) = [2k / r2] * (q1 * q3 - q2 * q3)

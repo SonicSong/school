@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/csorting_school.dir/main.cpp.o -o csorting_school 

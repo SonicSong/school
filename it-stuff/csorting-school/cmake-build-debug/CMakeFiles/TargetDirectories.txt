@@ -1,0 +1,3 @@
+/home/roberts/CLionProjects/csorting-school/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/roberts/CLionProjects/csorting-school/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/roberts/CLionProjects/csorting-school/cmake-build-debug/CMakeFiles/csorting_school.dir

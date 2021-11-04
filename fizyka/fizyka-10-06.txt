@@ -1,0 +1,71 @@
+##Ciepło molowe gazów przy całej objętości i cisnieniu
+
+			   |
+			|  |   |
+|------|		|------|
+|      | ← v=const	|      | ← p=const
+|      | ← n		|      | ← n
+|------|		|------|
+   ↑			   ↑
+  +Qv			  +Qv
+
+Qv = Cv x n x (delta)T
+Qp = Cp x n x (delta)T
+Qp > Qv
+Cp > Cv		Cp,v = [J/mol x K]
+
+n x (delta)T x Cp - n(delta)TCv = n x (delta)T x R		R = 8,31[J/mol x K]
+
+Qp - Qc = W
+
+Cv =3/2R \
+	 |- Dla gazów jednoatmowych		(Dwuatmowe +2)
+Cp = 52R /
+
+Cp/Cv = H > 1
+p. izoterm.  p x V =const
+p. adiabatycznej p x V^H = const
+
+
+Przemiana adiabatyczna zachodzi bez wyniamy ciepła w otoczeniu.
+1) Dobra izolacja (Izolacja termizna)
+			↓
+|------------------------|
+|			 |
+|   |     |    |	 |
+|   |----------|	 |
+|   |	       |	 |
+|   |          |	 |
+|   |          |	 |
+|   |----------|	 |
+|			 |
+|------------------------|
+
+2) Szybka przmiana
+
+p x V^H = const
+p x V^H = n x R x T
+p = nRT / V^H (y = a/X^n N > 1)
+
+Pierwsza zasada termodynamiki
+Zmienić energię wewnętrzną gazu można przez przepływ cieplny i pracę.
+
+|     |    |
+|  ↓  |  ↑ |
+|----------|
+|          |
+|	   |
+|n         |
+|----------|
+	↑
+       +Q
+
+(delta)U = Q +W
+U = 3/2N x k x T
+
+Pierwsza zasada termodynamiki dla izoprzemian
+1. Izobaryczna (delta)U = Q + W
+2. Izochoryczna (delta)U = Q
+3. Izotermiczna (delta)U = O
+
+O = W + Q
