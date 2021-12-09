@@ -1,0 +1,30 @@
+T: Prąd jako nośnik energi elektrycznej
+
+Natężenie
+I=q/t [1A = 1C / 1s]
+
+Opór
+I~U (I jest wprost proporcjonalne do napięcia)
+R=U/I [1Ohm = 1V / 1A]
+
+     E
+-|======|+
+     →
+
+T: Prąd jako nośnik energii elektrycznej
+
+W=Δ*E
+
+W=E=U*I*t
+
+P=U*I
+
+Moc:
+P=W/t [1W = 1J / 1s]
+
+Prawo :
+I1 = I2 + I3 +I4
+
+
+Sprawdzian:
+- 
