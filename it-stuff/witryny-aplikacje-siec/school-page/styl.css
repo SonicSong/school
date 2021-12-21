@@ -49,3 +49,12 @@ ul {
     height: 50px;
     text-align: right;
 }
+
+.image {
+    max-width: 80%;
+    height: auto;
+}
+
+a:hover {
+    color: brown;
+}
