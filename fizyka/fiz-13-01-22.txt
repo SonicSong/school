@@ -1,0 +1,9 @@
+T: Obowdy elektryczne rozgałęzione
+
+Pierwsze prawo Kirhhoffa - suma natężeń prądów wpływających do wężła obwodu jest równa sumie natężeń prądów z niego wypływająćych.
+
+Napięcię elektryzcne na wszystkich odbiornikach połączonch równoległych jest takie samo.
+
+Moc czerpana ze źródła napięcia jest równa sumie mocy odbieranych przez poszególne odbiorniki.
+
+
