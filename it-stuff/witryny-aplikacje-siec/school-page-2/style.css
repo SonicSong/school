@@ -1,0 +1,44 @@
+div {
+    padding: 1em 2em;
+}
+
+#main {
+    padding: 0;
+}
+
+#main * {
+    box-sizing: border-box;
+    float: left;
+}
+
+#left {
+    width: 20%;
+}
+
+.extrabar {
+    display: none;
+}
+
+.center {
+    width: 55%;
+}
+
+.right {
+    width: 25%;
+}
+
+@media screen and (max-width: 768px) {
+    .extrabar {
+        display: block;
+    }
+
+    #main * {
+        width: 100%;
+        float: none;
+        display: block;
+    }
+
+    #left {
+        display: none;
+    }
+}
