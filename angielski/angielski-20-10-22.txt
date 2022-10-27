@@ -1,0 +1,92 @@
+T: Czasowniki modalne
+
+(Person) must be [v]ing
+			→ I am sure
+Ktoś NA PEWNO coś teraz robi
+
+(Person) must [v]
+ktoś musi/na pewno coś zwykle robić
+
+(Person) must have _ _ _x
+Ktoś na pewno coś zrobił
+
+(Person) won't be [v]
+Ktoś na pewno czegoś NIE CHCE robić
+
+(Person) won't [v]
+Ktoś na pewno nie robi
+
+(Person) won't have _ _ _x
+Ktoś na pewno czegoś nie zrobił
+
+
+(Person) might be [v]
+Może ktoś coś będzie robić
+
+(Person) might [v]
+Może ktoś coś zwykle robi
+
+(Person) may {bardziej pewnie}/might have _ _ _x
+Ktoś może coś zrobił.
+
+
+NOW/FUTURE
+(Person) should/ought to be [v]
+Ktoś powinien coś w tej sprawie zrobić
+
+(Person) should/ought to [v]
+Ktoś powinien zwykle coś robić
+
+(Person) should have _ _ _x / ought to have been [v]ing
+Ktoś powinien być coś zrobić, ale tego nie zrobił
+
+NOT
+(Person) couldn't [v]
+Ktoś nie mógł czegoś zrobić (jest to fizycznie niemożliwe)
+
+(Person) would have _ _ _x
+(Ktoś mógł coś zrobić ale tego nie zrobił)
+
+(Person) didn't need to [v]
+(Ktoś nie musiał czegoś zrobić i tego nie zrobił)
+
+(Person) needn't have _ _ _x
+(Ktoś nie musiał czegoś robić ale to zrobił)
+
+It wasn't necessary for snb to [v]
+
+
+
+Mój tato powinien był naprawić samochód wczoraj.
+My dad should've repaired this car yesterday.
+
+Moja mama na pewno nie gotuje obiadu teraz.
+My mom can't be cooking dinner now.
+
+Nasz pies na pewno śpi teraz.
+Our dog must be sleeping.
+
+Oni mieli odwiedzić nas wczoraj (Ale tego nie zrobili)
+They were to have visited us yesterday.
+
+Nie mogłam upiec ciasta wczoraj.
+I couldn't cook a cake yesterday.
+
+Ona mogła wysłać te maile wczoraj (nie zrobiła tego)
+She could've sent these mails yesterday.
+
+Nie musiałem uczyć się wczoraj historii (nauczyłem się)
+I needn't have studied yesterday.
+
+Może oni pojechali nad morze wczoraj
+They might've to the sea yesterday.
+
+Może oni uczą się angielskiego w tym momencie
+They may be studing english.
+
+Nie było konieczne abym robił zakupy wczoraj.
+It wasn't necessary for me to do the shopping yesterday.
+I needn't have done the shopping.
+
+MUST		\ PAST +(Person) had to [v]	?Did (Person) have to [v]?
+Have/has to 	/ -(Person) didn't have to [v]
