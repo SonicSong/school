@@ -1,0 +1,28 @@
++ (Person) have/has _ _ _x
+It's the first time/second/tenth, (Person) have/has _ _ _x/[v]+ed
+It was the first time, (person) had _ _ _x/[v]+ed
+(Person) have = (Person)'ve _ _ _x  Present
+(Person) has = (person)'s _ _ _x    Perfect  since Simple Past
+How long is it since...........
+
+
+Past Perfect
+Dwie czynności miały miejsce w przeszłości.
+To czynność, która odbyła się w bardzo dalekiej przeszłości wyrażamy w past simple.
+Natomiast ta czynność, która jest bliżej teraźniejszości jest w czasie simple past.
+
+Zgubiłem klucze, a następnie zmieniłem zamek.
+I had lost my keys and then I changed my lock
+
+I had cooked dinner and then I washed the dishes
+
+Oni naprawili samochod a nastepnie pojechali na wakacje 
+They had repaired the car and than they went on holidays.
+
+Kiedy Sara przyjechałą na imprezę, Paul właśnie wyszedł.
+When she arrived to the party, Paul had already left.
+
+Nie byliśmy głodni. Właśnie zjedliśmy lunch.
+We weren't hungry. We had already eaten.
+
+She didn't go to the cinema. She had already watched the movie.
