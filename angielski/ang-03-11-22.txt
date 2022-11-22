@@ -27,4 +27,12 @@
 5. My flight was supposed to depart at ...
 6. Jonathan has a problem with his back. He is not supposed to lift anything ...
 
+* _ _ _x = 3. f. czasownika
 
+He denied [v]+ing/having _ _ _x
+He admitted [v]+ing/having _ _ _x
+
+(Person) suggest(s) (my/your/his/her/it's/our/your/their) [v]+ing
+(Person) suggest(s)  (person) should [v]/(person) [v](+s)
+
+(Person) suggested (my/your/...) [v]+ing/  (THAT) (Person) should [v]/(person) [v]+s/(Person) _ _x_ [v]+ed
