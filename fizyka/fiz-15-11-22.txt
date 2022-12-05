@@ -1,0 +1,11 @@
+T: Zjawisko fotoelektryczne wewnętrzne i zewnętrzne
+
+Liczba emitowanych elektronów z katody zależy od częstotliwości światła.
+Maksymalna energia kinetyczna fotoelektronów zależy od częstotliwości promieniowania, a nie zależy od natężenia tego promieniowania.
+
+E=h*f
+
+Każdy foton wybija z metalu jeden elektron
+
+h*f = E↓K + W zewnętrzne
+h*f = W wewnętrzne

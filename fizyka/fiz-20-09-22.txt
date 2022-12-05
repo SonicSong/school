@@ -1,0 +1,3 @@
+T: Przewodniki, izolatory i półprzewodniki.
+
+Dioda i tranzystor - budowa i zastosowanie.

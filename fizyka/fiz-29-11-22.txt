@@ -1,0 +1,7 @@
+T: Budowa jądra atomowego
+A - liczba wszystkich nukleonów w jądrze
+Z - Liczba protonów
+N - Liczba neutronów
+N = A - Z
+
+Izotoy to atomy tego samego pierwiastka o różnej liczbie neutronów w jądrze.
