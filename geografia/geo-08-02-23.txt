@@ -1,0 +1,25 @@
+T: Sieć osadnicza Polski
+
+1. Sieć osadnicza
+a) Miasta - 970
+b) Wsie - ponad 40000
+2. Największe Miasta w Polsce
+a) Warszawa
+b) Kraków
+c) Łódź
+d) Wrocław
+e) Poznań
+3. Funkcje miast - im większe miasto tym wiecej funkcji
+a) Administracyjna
+b) Obronna - dawniej. Dzisiaj ta funkcja nie istnieje
+c) Przemysłowa
+d) Naukowa - Kraków
+e) Handlowa - Poznań
+f) Uzdrowiskowa - Z nazwą zdrój
+g) Religijna - Częstochowa
+h) Turystyczna - Zakopane
+i) Transportowa
+- Porty morskie
+- Lotniska
+- Kolejowe
+- Przejścia graniczne

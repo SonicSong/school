@@ -1,0 +1,22 @@
+T:
+
+8.103
+Speaker 1 - B → C
+Speaker 2 - C → E
+Speaker 3 - D
+Speaker 4 - A
+
+5.145
+1. D
+2. A
+3. D
+4. A
+5. D
+
+Do you like fishing.
+
+Zaproponowałem moim znajomym abyśmy poszli do kina.
+
+She was curious, if we liked fishing.
+
+

@@ -1,0 +1,30 @@
+T: 
+[Person] am/are/is being (so) lazy/nice today
+
+/[Person] am/are/is not to [v] ← mustn't
+\ You're not to go there again.
+
+[Person] am/are/is always [v]+ing ← wkurza mnie...
+
+
+There is no poin in [v]+ing / It's no use [v]+ing ← Nie ma sensu czegoś robić
+
+[Person] objects(s)/ed to me/you//my/your [v]+ing = sprzeciwiać się/protestować
+[Person] am/are/is//was/were obliged to [v] = Jestem zmuszony
+[Person] am/are/is//was/were willing to [v] = Chętnie
+[Person] feel(s)/felt like [v]_ing = mieć ochotę
+[Person] admit(s)/ed  to (sth)/[v]+ing = przyznać się
+
+
+7.141
+1. B
+2. B
+3. B
+4. C
+5. C
+
+8.151
+1. E
+2. D
+3. A
+4. B

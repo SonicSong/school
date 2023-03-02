@@ -1,0 +1,21 @@
+T: Listeing
+
+Part 1
+1. C → B
+2. A/ → B
+3. B → A
+4. A → B
+5. A
+6. A
+7. B
+8. B
+
+Part 4
+24. F
+25. F
+26. T
+27. F
+28. T
+29. F
+30. F
+

@@ -1,0 +1,48 @@
+T: Listening
+
+9. Charity Organisation +
+10. families with children +
+11. little noisy devils +
+12. damage +
+13. construct more accommodation +
+14. higher rents -
+15. poor conditions -
+16. generous +
+17. temporary stay +
+18. something warm +
+ 
+24. E +
+25. H +
+26. E (W) -
+27. E +
+28. W +
+29. E +
+30. H +
+
+z.11 str.40
+1. work, do
+2. giving, write
+3. miss, reported
+4. check, hand
+5. give
+6. set, work
+7. takeing
+
+z.12 str.40
+1. bell
+2. punctuality
+3. attendance
+4. dictation
+5. packed
+6. kit
+7. deadline
+8. assignment
+
+z.14 str.40
+1. cutting
+2. periods
+3. detention
+4. absenteeism
+5. forging
+6. time
+7. tutorials

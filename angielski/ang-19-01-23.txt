@@ -1,0 +1,18 @@
+z.2 str.44
+A) 
+B) 3, 1, 2
+C) 2, 1
+
+z.3 str.44
+1. B
+2. C
+3. A
+4. E
+
+z.4 str.44
+1. pick
+2. hit
+3. space
+4. pack
+5. resume
+
