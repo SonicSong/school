@@ -1,0 +1,126 @@
+118.1
+A - Double Decker
+B - Lorry
+C - Scooter
+D - Motorbike
+E - Van
+F - Tram
+G - Sailing Boat
+H - Taxi/Cab
+
+118.2
+1. terminal
+2. bus stop
+3. Waiting room
+4. station
+5. departure lounge
+6. ferry terminal
+
+118.3
+1. passport control
+2. ticket machine
+3. luggage rack
+return tickets
+
+118.4
+1. catch
+2. delayed
+3. get
+4. change
+5. had printed
+6. checked
+7. went
+8. missed
+9. took
+
+119.5
+1. cable car
+2. cruise liners
+3. articulated Lorry
+4. narrow Boat
+5. sports car
+
+119.6
+1. deck
+2. tracks
+3. runway
+4. baggage reclaim
+5. docking station
+6. check-in desk
+
+119.7
+1. lockers
+2. Season
+3. priority
+4. charge
+
+119.8
+1. five-star hotel
+2. holiday resort
+3. self catering cabins
+4. en suite bathroom
+5. dog friendly
+6. Facilities
+7. make a reservation
+8. contact number
+9. in advance
+10. we usually have all the places booked
+
+119.9
+1. affordability
+2. 
+3.
+4. privacy
+5. practicality
+
+120.10
+1. beach
+2. sandy
+3. sunbathing
+4. diving
+5. sailing
+6. historic
+7. sightseeing
+8. guides
+9. monuments
+10. galleries
+11. architectural
+12. cultural
+
+120.12
+1. 
+
+120.13
+1. ancient ruins, admission charge
+2. sheer cliffs, nature wonder, breathtaking view
+3. scorching temperatures, pebbly
+4. thrilling rides, surrounding area
+
+120.14
+1. emergency
+2. breaks down
+3. crash
+4. call
+5. casualties
+6. safety
+7. lifejackets
+8. rescue services
+9. sunburned
+
+121.15
+1 - E
+2 - A
+3 - C
+4 - B
+5 - D
+
+121.17
+1. limit
+2. ticket
+3. speed
+4. foot
+5. 
+6.
+7. roundabout
+8. belt
+
